@@ -1,0 +1,36 @@
+#main-card{
+    margin: auto;
+    padding: 15%;
+    width: 50%;
+    text-align: center;
+    color: #F1F5F2;
+    font-size: 40px;
+}
+
+#main-card p{
+    margin-bottom: 10px;
+}
+
+#title{
+    color: #EA638C;
+    font-size: 30px;
+}
+
+#title p{
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+body{
+    background-color: #333333;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#icons i{
+    padding-left: 10px;
+    padding-right: 10px;
+}
